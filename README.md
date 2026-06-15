@@ -7,6 +7,10 @@
 ![Python](https://img.shields.io/badge/Python-100%25-blue?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Face_Recognition-green)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Stars](https://img.shields.io/github/stars/Majenayu/Face-recognization?style=social)
+![Forks](https://img.shields.io/github/forks/Majenayu/Face-recognization?style=social)
+![Issues](https://img.shields.io/github/issues/Majenayu/Face-recognization)
+![Last Commit](https://img.shields.io/github/last-commit/Majenayu/Face-recognization)
 
 **A real-time face recognition system using OpenCV and machine learning for accurate facial detection and identification**
 
